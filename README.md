@@ -31,7 +31,7 @@ My personal starship theme
 ### Option 1 — curl (one-liner)
 
 ```bash
-curl -o ~/.config/starship.toml https://raw.githubusercontent.com/FLadioGelo/MyStarship-Theme/main/starship.toml
+curl -o ~/.config/starship.toml https://raw.githubusercontent.com/FladioGelo/MyStarship-Theme/main/starship.toml
 ```
 
 ### Option 2 — manual
