@@ -1,6 +1,5 @@
-# MyStarship-Theme
+# 🚀 MyStarship-Theme
 My personal starship theme
-# 🚀 Starship Theme 
 
 ## ✨ Features
 
