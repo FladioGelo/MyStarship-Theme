@@ -14,7 +14,9 @@ My personal starship theme
 
 ## 📸 Preview
 
-> *(Add a screenshot of your terminal here — `preview.png`)*
+![Prompt preview](previews/preview.png)
+![Prompt preview](previews/sudo-preview.png)
+
 
 ---
 
