@@ -23,7 +23,6 @@ My personal starship theme
 ## ⚙️ Requirements
 
 - [Starship](https://starship.rs/) >= 1.0
-- A [Nerd Font](https://www.nerdfonts.com/) installed and set as your terminal font (for language symbols)
 
 ---
 
