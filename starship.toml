@@ -18,7 +18,7 @@ style = "bright-white"
 
 [sudo]
 disabled = false
-format = "[as $symbol]($style) "
+format = "[ as $symbol]($style) "
 style = "dimmed white"
 
 [bun]
