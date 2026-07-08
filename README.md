@@ -3,8 +3,7 @@ My personal starship theme
 
 ## ✨ Features
 
-- **OS name display** — knows where you are at a glance
-- **Command duration** — shows how long the last command took
+- **OS name display** 
 - **Sudo indicator** — subtle `as 🧙` when privileges are elevated
 
 ---
