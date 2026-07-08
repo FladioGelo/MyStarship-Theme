@@ -19,7 +19,7 @@ My personal starship theme
 
 ## ⚙️ Requirements
 
-- [Starship](https://starship.rs/) >= 1.0
+- Starship :)
 
 ---
 
