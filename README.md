@@ -3,12 +3,9 @@ My personal starship theme
 
 ## ✨ Features
 
-- **Monochromatic palette** — white, dimmed white, bright-white; red only for errors
-- **Minimal language indicators** — shows only the tool symbol, no version clutter
 - **OS name display** — knows where you are at a glance
 - **Command duration** — shows how long the last command took
 - **Sudo indicator** — subtle `as 🧙` when privileges are elevated
-- **Vim mode support** — `❯` / `❮` for insert and normal mode
 
 ---
 
@@ -41,13 +38,6 @@ curl -o ~/.config/starship.toml https://raw.githubusercontent.com/FladioGelo/MyS
 
 ```bash
 cp starship.toml ~/.config/starship.toml
-```
-
-3. Restart your terminal or run:
-
-```bash
-source ~/.bashrc   # bash
-source ~/.zshrc    # zsh
 ```
 
 ---
