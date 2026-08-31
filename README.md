@@ -1,10 +1,10 @@
-# 🚀 MyStarship-Theme
-My personal starship theme
+# MyStarship-Theme
 
-## ✨ Features
+## Features
 
-- **OS name display** 
-- **Sudo indicator** — subtle `as 🧙` when privileges are elevated
+- **OS name display** cool with grey color
+- **Sudo indicator** — `as 🧙`
+- **No Runtime Versions** based on "no-runtime-versions" presets
 
 ---
 
