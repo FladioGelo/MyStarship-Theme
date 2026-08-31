@@ -2,9 +2,9 @@
 
 ## Features
 
-- **OS name display** cool with grey color
+- **OS name display** - cool with grey color
 - **Sudo indicator** — `as 🧙`
-- **No Runtime Versions** based on "no-runtime-versions" presets
+- **No Runtime Versions** - based on "no-runtime-versions" presets
 
 ---
 
