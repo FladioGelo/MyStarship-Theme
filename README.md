@@ -10,6 +10,7 @@
 
 ## 📸 Preview
 ![Prompt preview](previews/preview-notsudo.gif)
+![Prompt preview](previews/sudo-preview.png)
 
 ---
 
