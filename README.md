@@ -3,8 +3,9 @@
 ## Features
 
 - **OS name display** - cool with grey color
-- **Sudo indicator** — `as 🧙`
+- **Sudo indicator** - `as 🧙`
 - **No Runtime Versions** - based on "no-runtime-versions" presets
+- **Never show username or hostaname** beside the current location
 
 ---
 
