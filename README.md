@@ -9,9 +9,11 @@
 
 ---
 
-## 📸 Preview
+## 📸 Preview as sudo
 
 ![Prompt preview](previews/sudo-preview.png)
+
+## 📸 Preview in projects
 ![Prompt preview](previews/git-preview.png)
 
 ---
