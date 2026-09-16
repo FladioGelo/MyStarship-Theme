@@ -20,11 +20,26 @@ style = "bright-white"
 disabled = false
 format = "[ as $symbol]($style) "
 style = "dimmed white"
- 
+
 [git_branch]
-format = "on [$branch]($style) "
-style = "bold 208"
- 
+format = "[$branch]($style)"
+style = "dimmed white"
+
+[git_status]
+format = "[[(*$conflicted$untracked$modified$staged$renamed$deleted)](218) ($ahead_behind$stashed)]($style)"
+style = "cyan"
+conflicted = "​"
+untracked = "​"
+modified = "​"
+staged = "​"
+renamed = "​"
+deleted = "​"
+stashed = "≡"
+
+[git_state]
+format = '\([$state( $progress_current/$progress_total)]($style)\) '
+style = "bright-black"
+
 [package]
 format = "[$symbol$version]($style) "
 style = "bold 208"
