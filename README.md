@@ -12,6 +12,7 @@
 ## 📸 Preview
 
 ![Prompt preview](previews/sudo-preview.png)
+![Prompt preview](previews/gitpreview.png)
 
 ---
 
