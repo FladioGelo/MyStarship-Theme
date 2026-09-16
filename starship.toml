@@ -20,6 +20,14 @@ style = "bright-white"
 disabled = false
 format = "[ as $symbol]($style) "
 style = "dimmed white"
+ 
+[git_branch]
+format = "on [$branch]($style) "
+style = "bold 208"
+ 
+[package]
+format = "[$symbol$version]($style) "
+style = "bold 208"
 
 [bun]
 format = "via [$symbol]($style)"
