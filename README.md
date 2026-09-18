@@ -4,7 +4,7 @@
 
 - **OS name display** - cool with grey color
 - **Sudo indicator** - `as 🧙`
-- **No Runtime Versions mixed with Pure presete** - based on "no-runtime-versions" and "pure-prompt" presets
+- **No Runtime Versions mixed with Pure preset style** - based on "no-runtime-versions" and "pure-prompt" presets
 - **Never show USERNAME or HOSTNAME** beside the current location
 
 ---
