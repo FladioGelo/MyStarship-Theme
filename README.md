@@ -26,7 +26,7 @@
 
 ## 📦 Installation
 
-### Option 1 — curl (one-liner)
+### Option 1 — curl 
 
 ```bash
 curl -o ~/.config/starship.toml https://raw.githubusercontent.com/FladioGelo/MyStarship-Theme/main/starship.toml
@@ -38,6 +38,7 @@ curl -o ~/.config/starship.toml https://raw.githubusercontent.com/FladioGelo/MyS
 2. Copy `starship.toml` to your Starship config directory:
 
 ```bash
+git clone https://github.com/FladioGelo/MyStarship-Theme
 cp starship.toml ~/.config/starship.toml
 ```
 
