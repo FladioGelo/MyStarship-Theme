@@ -24,19 +24,10 @@
 
 ---
 
-## 📦 Installation
-
-### Option 1 — curl 
+## 📦 Installation 
 
 ```bash
 curl -o ~/.config/starship.toml https://raw.githubusercontent.com/FladioGelo/MyStarship-Theme/main/starship.toml
-```
-
-### Option 2 — manual
-
-```bash
-git clone https://github.com/FladioGelo/MyStarship-Theme
-cp starship.toml ~/.config/starship.toml
 ```
 
 ---
