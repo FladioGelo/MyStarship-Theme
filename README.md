@@ -9,12 +9,11 @@
 
 ---
 
-## 📸 Preview as sudo
+## 📸 Preview
 
-![Prompt preview](previews/sudo-preview.png)
-
-## 📸 Preview in projects
-![Prompt preview](previews/git-preview.png)
+| As sudo | In projects |
+|:---:|:---:|
+| ![Prompt as sudo](previews/sudo.gif) | ![Prompt in projects](previews/langs.gif) |
 
 ---
 
