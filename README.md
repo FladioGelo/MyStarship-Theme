@@ -8,13 +8,21 @@
 - **Never show USERNAME or HOSTNAME** beside the current location
 
 ---
-
 ## 📸 Preview
 
-| As sudo | In projects |
-|:---:|:---:|
-| ![Prompt as sudo](previews/sudo.gif) | ![Prompt in projects](previews/langs.gif) |
+<details open>
+<summary><b>As sudo</b></summary>
 
+![Prompt as sudo](previews/sudo.gif)
+
+</details>
+
+<details>
+<summary><b>In projects</b></summary>
+
+![Prompt in Rust, Python and Ruby projects](previews/langs.gif)
+
+</details>
 ---
 
 ## ⚙️ Requirements
