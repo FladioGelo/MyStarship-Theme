@@ -17,7 +17,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>In projects</b></summary>
 
 ![Prompt in Rust, Python and Ruby projects](previews/langs.gif)
